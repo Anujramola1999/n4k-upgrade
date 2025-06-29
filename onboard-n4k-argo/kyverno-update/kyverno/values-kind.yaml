@@ -222,7 +222,7 @@ config:
   enableDefaultRegistryMutation: true
 
   # -- The registry hostname used for the image mutation.
-  defaultRegistry: reg.nirmata.io
+  defaultRegistry: docker.io
 
   # -- Exclude groups
   excludeGroups:
